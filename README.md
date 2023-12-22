@@ -20,4 +20,5 @@ This project centers on the development of consumable food detection specificall
 The datasets used for model training and testing are from the website and scrapping bing images. The purpose of this dataset is to develop a model (CNN) to classify the state and type of inputted bread images.
 Link: https://drive.google.com/drive/folders/1-55gJ21dLpLVYJCOBr6eINv_x06JgpT-?usp=sharing
 
-
+## Saved Model
+Link: https://drive.google.com/drive/folders/1WMLJb_rcI1HFfCrXGdjoCHlq06wVPW5W?usp=sharing
